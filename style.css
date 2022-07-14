@@ -1,0 +1,27 @@
+body
+{
+text-align:center;
+}
+.heading{
+    width:100%;
+    font-size: 25px;
+    
+}
+.heading button{
+float:right;
+border: 2px solid aliceblue;
+border-radius:10px;
+}
+
+h3{
+    display:inline;
+
+}
+h4{
+    background-color: aliceblue;
+    
+    line-height: 50px;
+    margin:0px;
+    } .modal-dialog{
+        width:90%;
+     }
